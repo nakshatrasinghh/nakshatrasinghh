@@ -1,13 +1,12 @@
 ### **Hey 👋🏽, I'm Nakshatra!**
-
 <br/>
-
 <a href="https://www.linkedin.com/in/nakshatra-singh-3363511b3/">
   <img align="left" alt="Nakshatra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 
-[]()
+![]()
+
 
 Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India, currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing, learning ✍🏽. 
 
