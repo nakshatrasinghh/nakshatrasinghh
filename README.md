@@ -8,7 +8,7 @@
 ![]()
 
 
-Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India, currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing, learning ✍🏽. 
+Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing, learning ✍🏽. 
 
 <img align="right" height="270" alt="GIF" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" />
 
