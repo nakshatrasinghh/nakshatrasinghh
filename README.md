@@ -8,7 +8,8 @@
 
 <br />
 
-Here are some ideas to get you started:
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Cloud
