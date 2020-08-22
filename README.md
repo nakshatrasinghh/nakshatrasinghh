@@ -1,4 +1,6 @@
-### **Hey 👋🏽, I'm Nakshatra!**
+# **Hey 👋🏽, I'm Nakshatra!**
+
+### **Connect with me:**
 <br/>
 <a href="https://www.linkedin.com/in/nakshatra-singh-3363511b3/">
   <img align="left" alt="Nakshatra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
