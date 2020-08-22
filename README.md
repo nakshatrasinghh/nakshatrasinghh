@@ -50,6 +50,6 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.nakshatrasinghh.vercel.app//api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />]
+[<img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />](https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa)
 
 
