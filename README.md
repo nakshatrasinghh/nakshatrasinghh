@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact
 
 
-<img align="right" height="350" alt="GIF" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" />
+<img align="right" height="270" alt="GIF" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" />
 
 
 
