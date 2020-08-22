@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Nakshatra!
+### **Hey 👋🏽, I'm Nakshatra!**
 
 <br/>
 
@@ -15,7 +15,7 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India, cu
 
 
 
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Transformer Models;
 - 🌱 I’m currently learning Natural Language Processing;
