@@ -8,7 +8,6 @@
 
 <br />
 
-![]()
 
 Hi, I'm Nakshatra Singh
 
