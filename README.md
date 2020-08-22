@@ -1,4 +1,4 @@
-# **Hey 👋🏽, I'm Nakshatra!**
+## **Hey 👋🏽, I'm Nakshatra!**
 
 ### **Connect with me:**
 <br/>
