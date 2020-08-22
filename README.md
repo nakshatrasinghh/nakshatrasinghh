@@ -8,6 +8,8 @@
 
 <br />
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 Hi, I'm Nakshatra Singh
 
 
