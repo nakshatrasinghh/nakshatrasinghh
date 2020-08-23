@@ -1,4 +1,4 @@
-## **Hey 👋🏽, I'm Nakshatra!**
+## **Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">, I'm Nakshatra!**
 
 ### **Connect with me:**
 <br/>
