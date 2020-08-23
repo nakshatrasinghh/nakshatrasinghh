@@ -48,9 +48,6 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 
 ![Nakshatra's github stats](https://github-readme-stats.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&hide_border=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.nakshatrasinghh.vercel.app/api/top-langs/?username=nakshatrasinghh&layout=compact)](https://github.com/nakshatrasinghh/github-readme-stats)
-
-
 ### **Spotify Playing 🎧**
 [<img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />](https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa)
 
