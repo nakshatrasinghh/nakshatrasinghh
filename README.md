@@ -45,9 +45,9 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatrasinghh&show_icons=true&hide_border=true&theme=radical)
+![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatrasinghh&show_icons=true&hide_border=true&text_color=9f9f9f&icon_color=79ff97&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&layout=compact&theme=radical&hide_border=true&show_icons=true)](https://github.com/nakshatrasinghh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&theme=radical&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f)](https://github.com/nakshatrasinghh/github-readme-stats)
 
 ### **Spotify Playing 🎧**
 [<img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />](https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa)
