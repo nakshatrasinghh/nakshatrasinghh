@@ -1,6 +1,6 @@
 ## **Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">, I'm Nakshatra!**
 
-### **Connect with me:**
+### **Connect with me <img src="https://img.icons8.com/nolan/17/down.png"/> :**
 <br/>
 <a href="https://www.linkedin.com/in/nakshatra-singh-3363511b3/">
   <img align="left" alt="Nakshatra's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
