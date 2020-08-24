@@ -12,7 +12,6 @@
 
 ![]()
 
-
 Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing and learning ✍🏽. 
 
 <img align="right" height="275" alt="GIF" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" />
@@ -45,7 +44,6 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-### BUMP MY FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!
 
 ![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatrasinghh&show_icons=true&hide_border=true&theme=radical)
 
@@ -54,4 +52,4 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 ### **Spotify Playing 🎧**
 [<img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />](https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa)
 
-
+### Bump my fist [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!
