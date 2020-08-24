@@ -3,10 +3,10 @@
 ### **Connect with me:**
 <br/>
 <a href="https://www.linkedin.com/in/nakshatra-singh-3363511b3/">
-  <img align="left" alt="Nakshatra's LinkdeIN" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
+  <img align="left" alt="Nakshatra's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
 </a>
 <a href="https://wa.link/8bt67v">
-  <img align="left" alt="Nakshatra's Whatsapp" width="25px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
+  <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
 </a>
 <br />
 
