@@ -20,14 +20,14 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 
 ### **Talking about Personal Stuffs:**
 
-- 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!
+- 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
 - 🔭 I’m currently working on Transformer Models;
 - 🌱 I’m currently learning Natural Language Processing;
 - 👯 I’m looking to collaborate on ML/DL 🤝;
 - 🤔 I’m looking for help with Data Structures And Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help ❤️;
 - 📫 How to reach me: `nakshatradsu1@outlook.com`;
-- ⚡ Fun fact: I am really tall, 6'0” 🥛;
+- ⚡ Fun fact: I am really tall, 6'0” 🥛.
 
 
 
