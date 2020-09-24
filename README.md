@@ -47,7 +47,7 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatrasinghh&count_private=true&show_icons=true&hide_border=true&text_color=9f9f9f&icon_color=79ff97&theme=radical)
+![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatrasinghh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=9f9f9f&icon_color=79ff97&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&langs_count=10&theme=radical&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f)](https://github.com/nakshatrasinghh/github-readme-stats)
 
