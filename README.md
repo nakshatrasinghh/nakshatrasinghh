@@ -1,16 +1,14 @@
-## **Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">, I'm Nakshatra!**
+# **Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">**
 
-### **Connect with me <img src="https://img.icons8.com/nolan/17/down.png"/> :**
-<br/>
-<a href="https://www.linkedin.com/in/nakshatrasinghh/">
-  <img align="left" alt="Nakshatra's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
-</a>
-<a href="https://wa.link/8bt67v">
-  <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
-</a>
-<br />
-
-![]()
+## **💬 Connect? Lets get social 👇🏼**
+<p align="left">
+<a href="https://medium.com/@nakshatradsml"><img height="45" src="https://user-images.githubusercontent.com/53419293/96714013-27a8fe80-13bf-11eb-892b-eb859e66cd2b.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nakshatrasinghh/"><img height="45" src="https://user-images.githubusercontent.com/53419293/96712764-3e4e5600-13bd-11eb-81e6-50b8c7ea07eb.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://nakshatrasinghh-io.vercel.app/"><img height="45" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/nakshatrasinghh"><img height="45" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="45" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://wa.link/8bt67v"><img height="45" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing and learning ✍🏽. 
 
@@ -18,7 +16,7 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 
 
 
-### **Talking about Personal Stuffs:**
+## **Talking about Personal Stuffs:**
 
 - 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
 - 🔭 I’m currently working on Transformer Models;
@@ -33,17 +31,17 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 
 ### **Languages and Tools:**  
 
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
 [![Nakshatra's github stats](https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/nakshatrasinghh/github-readme-stats)
