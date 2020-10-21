@@ -1,6 +1,6 @@
 # **Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">**
 
-## **💬 Connect? Lets get social 👇🏼**
+**💬 Connect? Let's get social 👇🏼**
 <p align="left">
 <a href="https://medium.com/@nakshatradsml"><img height="45" src="https://user-images.githubusercontent.com/53419293/96714013-27a8fe80-13bf-11eb-892b-eb859e66cd2b.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nakshatrasinghh/"><img height="45" src="https://user-images.githubusercontent.com/53419293/96712764-3e4e5600-13bd-11eb-81e6-50b8c7ea07eb.png?raw=true"></a>&nbsp;&nbsp;
