@@ -12,7 +12,7 @@
 
 Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing and learning ✍🏽. 
 
-<img align="right" height="275" alt="GIF" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" />
+<img align="right" height="275" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
 
 
 
