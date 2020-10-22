@@ -1,4 +1,6 @@
-# **Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">**
+<p align="center">
+<h1> Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</p> 
 
 **💬 Connect? Let's get social 👇🏼**
 <p align="left">
@@ -44,7 +46,7 @@ Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Cu
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-[![Nakshatra's github stats](https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/nakshatrasinghh/github-readme-stats)
+[![Nakshatra's github stats](https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/nakshatrasinghh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAKSHATRASINGHH&layout=compact&langs_count=10&theme=radical&hide_border=true&show_icons=true)](https://github.com/nakshatrasinghh/github-readme-stats)
 
