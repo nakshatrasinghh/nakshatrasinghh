@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </p> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c" alt="Nakshatra" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c" alt="Nakshatra" /> </p> 
 
 **💬 Connect? Let's get social 👇🏼**
 <p align="left">
