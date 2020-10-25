@@ -2,6 +2,8 @@
 <h1> Hi there, I'm Nakshatra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </p> 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c" alt="Nakshatra" /> </p> 
+
 **💬 Connect? Let's get social 👇🏼**
 <p align="left">
 <a href="https://medium.com/@nakshatradsml"><img height="45" src="https://user-images.githubusercontent.com/53419293/96714013-27a8fe80-13bf-11eb-892b-eb859e66cd2b.png?raw=true"></a>&nbsp;&nbsp;
