@@ -5,7 +5,7 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </p>
 <p align="center">
-<a href="https://medium.com/@nakshatradsml"><img height="43" src="https://user-images.githubusercontent.com/53419293/96714013-27a8fe80-13bf-11eb-892b-eb859e66cd2b.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@nakshatradsml"><img height="43" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://nakshatrasinghh-io.vercel.app/"><img height="43" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
@@ -16,11 +16,18 @@
   <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c"> 
 </p>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 😊 Nakshatra Singh | 💻 ML, DL & NLP Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</h3>
+
+<br />
+<img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
+<p align="center">
+  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+</p>
 
 
-Hi, I'm Nakshatra Singh, a sophomore CSE student 🎓, from Bengaluru, India. Currently I'm exploring more into Natural Langauage Processing and I'm up-to-date with Machine Learning. I'm Passionate about travelling, writing and learning ✍🏽. 
-
-<img align="right" height="275" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
+<img align="right" height="275" src="" />
 
 
 
