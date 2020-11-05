@@ -71,12 +71,6 @@
   </a>
 </p>
 
-
-<h2 align="center">
-  Spotify Playing 🎧
-</h2>
-
-
 <p align="center">
 <a href="https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa">
     <img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="380" />
