@@ -10,14 +10,20 @@
 <a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://wa.link/8bt67v"><img height="43" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/98197756-73c27a00-1f4d-11eb-82d8-cc5f7b613c93.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c"> 
 </p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 😊 Nakshatra Singh | 💻 ML, DL & NLP Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧔🏻 Nakshatra Singh | 💻 ML, DL & NLP Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </h3>
 
 <br />
@@ -25,11 +31,6 @@
 <p align="center">
   <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
 </p>
-
-
-<img align="right" height="275" src="" />
-
-
 
 ## **Talking about Personal Stuffs:**
 
@@ -40,7 +41,6 @@
 - 💬 Ask me about anything, I am happy to help ❤️;
 - 📫 How to reach me: `nakshatradsu1@outlook.com`;
 - ⚡ Fun fact: I am really tall, 6'0” 🥛.
-
 
 
 
@@ -59,11 +59,27 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-[![Nakshatra's github stats](https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/nakshatrasinghh/github-readme-stats)
+<p align="center" >
+<a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
+    <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAKSHATRASINGHH&layout=compact&langs_count=10&theme=radical&hide_border=true&show_icons=true)](https://github.com/nakshatrasinghh/github-readme-stats)
+<p align="center" >
+<a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAKSHATRASINGHH&layout=compact&langs_count=10&theme=radical&hide_border=true&show_icons=true" />
+  </a>
+</p>
 
-### **Spotify Playing 🎧**
-[<img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="350" />](https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa)
 
-#### 
+<h2 align="center">
+  Spotify Playing 🎧
+</h2>
+
+
+<p align="center">
+<a href="https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa">
+    <img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="380" />
+  </a>
+</p>
+
