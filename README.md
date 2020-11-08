@@ -6,16 +6,13 @@
 </p>
 <p align="center">
 <a href="https://medium.com/@nakshatradsml"><img height="43" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://nakshatrasinghh-io.vercel.app/"><img height="43" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://nakshatrasinghh-io.vercel.app/"><img height="43" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://wa.link/8bt67v"><img height="43" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/98197756-73c27a00-1f4d-11eb-82d8-cc5f7b613c93.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:nakshatradsml@gmail.com"><img height="43" src="https://user-images.githubusercontent.com/53419293/98468706-b8763b80-2201-11eb-963c-2ba6c4abd8c4.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-
-
-
-
 
 
 <p align="center">
