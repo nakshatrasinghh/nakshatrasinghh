@@ -28,9 +28,6 @@
 
 <br />
 <img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
-<p align="center">
-  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
-</p>
 
 ## **Talking about Personal Stuffs:**
 
