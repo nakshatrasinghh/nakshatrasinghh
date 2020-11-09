@@ -28,8 +28,6 @@
 ## **Talking about Personal Stuffs:**
 
 - 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
-- 🔭 I’m currently working on Transformer Models;
-- 🌱 I’m currently learning Natural Language Processing;
 - 👯 I’m looking to collaborate on ML, DL and NLP 🤝;
 - 💬 Ask me about anything, I am happy to help ❤️;
 - 📫 How to reach me: `nakshatradsu1@outlook.com`;
