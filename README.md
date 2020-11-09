@@ -17,9 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c"> 
 </p>
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧔🏻 Nakshatra Singh | 💻 Python Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</h2>
+</h3>
 
 <br />
 <img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
