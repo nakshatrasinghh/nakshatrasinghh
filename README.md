@@ -41,18 +41,25 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-### 🐱My Github stats:
+<h3 align="center" >
+  🐱My Github stats
+</h3>
+
 <p align="center" >
 <a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
     <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
   </a>
 </p>
 
-<p align="center" >
+<p align="center">
 <a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&layout=compact&langs_count=10&theme=radical&hide_border=true&show_icons=true" />
   </a>
 </p>
+
+<h3 align="center" >
+  Spotify Playing 🎧
+</h3>
 
 <p align="center">
 <a href="https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa">
