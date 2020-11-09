@@ -60,7 +60,7 @@
 </p>
 
 <h3 align="center">
-  What am I listening to? 🎧
+  What am/was I listening to? 🎧
 </h3>
 
 <p align="center">
