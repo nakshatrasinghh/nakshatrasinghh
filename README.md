@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://nakshatrasinghh-io.vercel.app/">Nakshatra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  Hi there, I'm <a href="https://nakshatrasinghh.github.io/">Nakshatra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 <p align="center">
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -7,7 +7,6 @@
 <p align="center">
 <a href="https://medium.com/@nakshatradsml"><img height="43" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://nakshatrasinghh-io.vercel.app/"><img height="43" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://wa.link/8bt67v"><img height="43" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/98197756-73c27a00-1f4d-11eb-82d8-cc5f7b613c93.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -27,7 +26,6 @@
 
 ### **Talking about Personal Stuffs:**
 - 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
-- 👯 I’m looking to collaborate on ML, DL and NLP 🤝;
 - 💬 Ask me about anything, I am happy to help ❤️;
 - 📫 How to reach me: `nakshatradsu1@outlook.com`;
 - ⚡ Fun fact: I am really tall, 6'0” 🥛.
@@ -47,12 +45,6 @@
 <p align="center" >
 <a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
     <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-  </a>
-</p>
-
-<p align="center" >
-<a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=nakshatrasinghh&theme=vision-friendly-dark" />
   </a>
 </p>
 
