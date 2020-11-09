@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧔🏻 Nakshatra Singh | 💻 ML, DL & NLP Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧔🏻 Nakshatra Singh | 💻 Python Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </h3>
 
 <br />
