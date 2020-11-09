@@ -57,8 +57,8 @@
   </a>
 </p>
 
-<h3 align="center" >
-  Spotify Playing
+<h3 align="center">
+  What am I listening to? 🎧
 </h3>
 
 <p align="center">
