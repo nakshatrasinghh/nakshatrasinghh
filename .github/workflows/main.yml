@@ -2,6 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
+    # Runs at 00:00 and 12: UTC every day
     - cron: '0 */12 * * *'
 
 jobs:
