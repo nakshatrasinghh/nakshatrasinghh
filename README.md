@@ -69,10 +69,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. It sometimes does not render the languages used properly.</em>
-</p>
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
@@ -151,3 +147,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <em>NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. It sometimes does not render the languages used properly.</em>
+</p>
