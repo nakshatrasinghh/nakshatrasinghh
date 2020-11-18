@@ -49,13 +49,13 @@
 
 <p align="center" >
 <a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
-    <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=vision-friendly-dark&layout=compact&count_private=true"/>
+    <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true"/>
   </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&langs_count=10&theme=radical&layout=compact&hide_border=true&show_icons=true" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&langs_count=10&theme=material-palenight&layout=compact&hide_border=true&show_icons=true" />
   </a>
 </p>
 
