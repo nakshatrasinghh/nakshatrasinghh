@@ -70,13 +70,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-383169%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-382956%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 714 Contributions in the Year 2020
+> 🏆 717 Contributions in the Year 2020
  > 
-> 📦 67.8 kB Used in Github's Storage 
+> 📦 68.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
