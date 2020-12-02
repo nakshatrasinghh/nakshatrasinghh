@@ -53,12 +53,6 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&langs_count=10&theme=material-palenight&layout=compact&hide_border=true&show_icons=true" />
-  </a>
-</p>
-
 <h3 align="center">
   What am/was I listening to? 🎧
 </h3>
@@ -68,6 +62,10 @@
     <img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="380" />
   </a>
 </p>
+
+<h3 align="center" >
+  🕒My WakaTime stats
+</h3>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385062%20lines%20of%20code-blue)
