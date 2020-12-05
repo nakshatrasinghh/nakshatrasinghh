@@ -5,7 +5,7 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </p>
 <p align="center">
-<a href="https://medium.com/@nakshatradsml"><img height="43" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@nakshatradsml"><img height="43" src="https://user-images.githubusercontent.com/53419293/101235833-e4e28200-36f1-11eb-9bce-8600d611c92b.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://wa.link/8bt67v"><img height="43" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
