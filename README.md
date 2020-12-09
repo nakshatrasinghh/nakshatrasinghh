@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧔🏻 Nakshatra Singh | 💻 Python Developer | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <img src="https://user-images.githubusercontent.com/53419293/101595809-05744a00-3a1a-11eb-9646-d90a3af2646b.png" width="30"> 🧔🏻 Nakshatra Singh | 💻 Python Developer | 🛸 Bangalore, India <img src="https://user-images.githubusercontent.com/53419293/101595809-05744a00-3a1a-11eb-9646-d90a3af2646b.png" width="30"></h3>
 </h3>
 
 <br />
