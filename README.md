@@ -155,7 +155,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Paper Explained- Underspecification Present in Modern Machine Learning](https://medium.com/@nakshatradsml/paper-explained-underspecification-present-in-modern-machine-learning-2cd59ab09560?source=rss-b0b1443ab97e------2)
+- [Paper Explained- Underspecification Present in Modern Machine Learning](https://medium.com/analytics-vidhya/paper-explained-underspecification-present-in-modern-machine-learning-2cd59ab09560?source=rss-b0b1443ab97e------2)
 - [Language Models are Open Knowledge Graphs](https://medium.com/analytics-vidhya/language-models-are-open-knowledge-graphs-17a7284ff91a?source=rss-b0b1443ab97e------2)
 - [Paper Explained- Rethinking Attention with Performers](https://medium.com/analytics-vidhya/paper-explained-rethinking-attention-with-performers-b207f4bf4bc5?source=rss-b0b1443ab97e------2)
 - [Paper Explained- LambdaNetworks: Modeling long-Range Interactions without Attention](https://medium.com/analytics-vidhya/lambdanetworks-modeling-long-range-interactions-without-attention-337771f42b6f?source=rss-b0b1443ab97e------2)
