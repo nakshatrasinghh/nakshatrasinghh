@@ -69,11 +69,11 @@
 </h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413675%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 838 Contributions in the Year 2020
+> 🏆 839 Contributions in the Year 2020
  > 
 > 📦 75.5 kB Used in Github's Storage 
  > 
