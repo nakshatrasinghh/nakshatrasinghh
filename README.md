@@ -71,19 +71,19 @@
 </h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 160 Contributions in the Year 2021
+> 🏆 163 Contributions in the Year 2021
  > 
-> 📦 668.4 kB Used in Github's Storage 
+> 📦 681.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 27 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -130,11 +130,11 @@ Mac                      1 hr 30 mins        ███████████�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         14 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Dart                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+Jupyter Notebook         14 repos            █████████░░░░░░░░░░░░░░░░   38.89% 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Dart                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
 
 ```
 
