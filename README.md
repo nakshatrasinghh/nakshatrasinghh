@@ -112,16 +112,16 @@ Sunday       65 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nakstarsinghhh           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
