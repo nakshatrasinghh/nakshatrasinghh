@@ -31,7 +31,7 @@
 ### **Talking about Personal Stuffs:**
 - 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
 - 💬 Ask me about anything, I am happy to help ❤️;
-- 📫 How to reach me: `nakshatradsu1@outlook.com`;
+- 📫 How to reach me: `iamnakshatrasingh@gmail.com`;
 - ⚡ Fun fact: I am really tall, 6'0” 🥛.
 
 ### **Languages and Tools:**  
