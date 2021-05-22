@@ -56,16 +56,6 @@
   </a>
 </p>
 
-<h3 align="center">
-  Spotify Playing 🎧
-</h3>
-
-<p align="center">
-<a href="https://open.spotify.com/user/hg1zipyjy8g3f39jptl6ku9pa">
-    <img src="https://novatorem.nakshatrasinghh.vercel.app/api/spotify-playing" alt="Nakshatra's Spotify Playing" width="380" />
-  </a>
-</p>
-
 <h3 align="center" >
   🕒My WakaTime stats
 </h3>
