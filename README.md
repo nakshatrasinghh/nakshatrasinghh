@@ -141,21 +141,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
  Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
-<h3 align="center" >
-  📝My Medium Blogs
-</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [Paper Explained- MLP Mixer: An MLP Architecture for Vision](https://medium.com/analytics-vidhya/paper-explained-mlp-mixer-an-mlp-architecture-for-vision-5e217ea8d287?source=rss-b0b1443ab97e------2)
-- [Paper Explained- Normalizer Free Nets (NFNETS): High Performance Large Scale Image Recognition…](https://medium.com/analytics-vidhya/paper-explained-normalizer-free-nets-nfnets-high-performance-large-scale-image-recognition-75518978b1fe?source=rss-b0b1443ab97e------2)
-- [Blog Post Explained- Creating Images from Text using DALL·E](https://medium.com/analytics-vidhya/blog-post-explained-creating-images-from-text-using-dall-e-4613376bbf10?source=rss-b0b1443ab97e------2)
-- [Paper Explained- Underspecification Present in Modern Machine Learning](https://medium.com/analytics-vidhya/paper-explained-underspecification-present-in-modern-machine-learning-2cd59ab09560?source=rss-b0b1443ab97e------2)
-- [Language Models are Open Knowledge Graphs](https://medium.com/analytics-vidhya/language-models-are-open-knowledge-graphs-17a7284ff91a?source=rss-b0b1443ab97e------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-[![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nakshatrasinghh&type=vertical&&limit=10)](https://nakshatrasinghh.medium.com)
-
 <p align="center">
   <em>NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. Sometimes the languages are not rendered correctly by GitHub.</em>
 </p>
