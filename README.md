@@ -1,14 +1,12 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://nakshatrasinghh-io.vercel.app/">Nakshatra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  Hi there, I'm Nakshatra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 <p align="center">
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </p>
 <p align="center">
-<a href="https://medium.com/@nakshatradsml"><img height="43" src="https://user-images.githubusercontent.com/53419293/101235833-e4e28200-36f1-11eb-9bce-8600d611c92b.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/98197756-73c27a00-1f4d-11eb-82d8-cc5f7b613c93.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://hub.docker.com/u/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/101234679-7698c200-36e7-11eb-91b5-67f5030fb2d4.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.kaggle.com/nakshatrasingh"><img height="43" src="https://user-images.githubusercontent.com/53419293/102369711-4522cf00-3fe2-11eb-9b19-9f8028da90d1.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
