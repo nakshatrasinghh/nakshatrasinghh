@@ -67,9 +67,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 45 Private Repositories  
+> 🔑 44 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
