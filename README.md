@@ -140,6 +140,9 @@ CSS                      2 repos             █░░░░░░░░░░�
  Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
+<!-- [![Nakshatra Singh's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nakshatrasinghh&type=horizontal&limit=10)](https://nakshatrasinghh.medium.com) -->
+
+
 <p align="center">
   <em>NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. Sometimes the languages are not rendered correctly by GitHub.</em>
 </p>
