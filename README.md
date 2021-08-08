@@ -137,7 +137,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 
 <!-- [![Nakshatra Singh's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nakshatrasinghh&type=horizontal&limit=10)](https://nakshatrasinghh.medium.com) -->
