@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53419293/129080818-2ba7f3bc-8ee4-4cd0-93b8-09062b007c14.jpg" alt="drawing"/>
+</p>
+
 <h1 align="center">
   Hi there, I'm Nakshatra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
@@ -21,7 +25,7 @@
 </h3>
 
 <br />
-<img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/96843683-3a2d4180-146c-11eb-99bf-6914e7cd6ea1.PNG" />
+<img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/129064511-4bc1dc21-9aca-4e8b-879c-52a36a1dfcbb.png" />
 
 
 ### **Talking about Personal Stuffs:**
