@@ -65,7 +65,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 
 
 <details>	
-  <summary><b>⚡ GitHub and WakaTime Stats</b></summary>
+  <summary><b style="font-size:100px">⚡ GitHub and WakaTime Stats</b></summary>
 <img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
 
 <!--START_SECTION:waka-->
