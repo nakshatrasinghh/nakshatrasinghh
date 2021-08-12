@@ -1,4 +1,4 @@
-<img style="border-radius:30px" src="https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/Untitledreadme1.jpg">
+<img style="border-radius:30px" src="https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/readme.jpg">
 
 ### About Me👋
 I am a Third Year Computer Science Undergraduate at Dayananda Sagar University, Bangalore.
