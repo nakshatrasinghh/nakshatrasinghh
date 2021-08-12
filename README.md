@@ -1,152 +1,46 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53419293/129080818-2ba7f3bc-8ee4-4cd0-93b8-09062b007c14.jpg" alt="drawing"/>
-</p>
+<img style="border-radius:30px" src="https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/Untitledreadme1.jpg">
 
-<h1 align="center">
-  Hi there, I'm Nakshatra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h1>
-<p align="center">
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</p>
-<p align="center">
-<a href="https://github.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/nakshatrasinghh"><img height="43" src="https://user-images.githubusercontent.com/53419293/98197756-73c27a00-1f4d-11eb-82d8-cc5f7b613c93.jpg?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/nakshatrasingh"><img height="43" src="https://user-images.githubusercontent.com/53419293/102369711-4522cf00-3fe2-11eb-9b19-9f8028da90d1.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+### About Me👋
+I am a Third Year Computer Science Undergraduate at Dayananda Sagar University, Bangalore.
+Recently I was employed as a Research Intern at Lykiq Labs where I was implementing artificial fish-swarm algorithm and scheduling techniques in Python.
+Additionally I was also working at ShapeAI as a Machine Learning Intern (+Mentor) where I was learning and implementing Neural Machine Translation and various Deep Learning models using pytorch and keras.
+I have done various projects on Computer Vision, Machine Learning and Deep Learning.
+Presently I hold the Master rank at MachineHack.
+</br>
 
+Fun Fact : I love creating UI/UX designs in Flutter!
 
+Currently, I am diving into the world of React and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakshatrasinghh&style=flat-square&label=Profile+Views&color=dc143c"> 
-</p>
+### My Tech Stack🚀
+#### Machine Learning Stack
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![image](https://img.shields.io/badge/PyTorch-Lightning-792EE5?style=for-the-badge&logo=PyTorch-Lightning&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/53419293/101595809-05744a00-3a1a-11eb-9646-d90a3af2646b.png" width="30"> 🧔🏻 Nakshatra Singh | 💻 Python Developer | 🛸 Bangalore, India <img src="https://user-images.githubusercontent.com/53419293/101595809-05744a00-3a1a-11eb-9646-d90a3af2646b.png" width="30"></h3>
-</h3>
-
-<br />
-<img align="right" height="275px" alt="GIF" src="https://user-images.githubusercontent.com/53419293/129064511-4bc1dc21-9aca-4e8b-879c-52a36a1dfcbb.png" />
-
-
-### **Talking about Personal Stuffs:**
-- 💰 Bump my FIST [👊](https://github.com/nakshatrasinghh?tab=repositories) to check out my repos!;
-- 💬 Ask me about anything, I am happy to help ❤️;
-- 📫 How to reach me: `iamnakshatrasingh@gmail.com`;
-- ⚡ Fun fact: I am really tall, 6'0” 🥛.
-
-### **Languages and Tools:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-
-![]()
-<h3 align="center" >
-  🐱My Github stats
-</h3>
-
-<p align="center" >
-<a href="https://github.com/nakshatrasinghh/github-readme-stats"> 
-    <img  src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true"/>
-  </a>
-</p>
-
-<h3 align="center" >
-  🕒My WakaTime stats
-</h3>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 293 Contributions in the Year 2021
- > 
-> 📦 798.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 45 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    173 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-🌆 Daytime    444 commits    ███████████░░░░░░░░░░░░░░   46.25% 
-🌃 Evening    314 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
-🌙 Night      29 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       151 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-Tuesday      121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
-Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-Thursday     160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Friday       151 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-Saturday     139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Sunday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     3 hrs               ████████████████████░░░░░   82.0% 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
-
-🔥 Editors: 
-IntelliJ                 2 hrs 35 mins       █████████████████░░░░░░░░   70.57% 
-VS Code                  1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.43%
-
-🐱‍💻 Projects: 
-day1-intellij-idea       2 hrs 32 mins       █████████████████░░░░░░░░   69.42% 
-java                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-Preprocess_Nakshatra     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-personal-portfolio       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
-
-💻 Operating System: 
-Mac                      3 hrs 39 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         20 repos            ██████████░░░░░░░░░░░░░░░   40.82% 
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/charts/bar_graph.png) 
-
-
- Last Updated on 12/08/2021
-<!--END_SECTION:waka-->
-
-<!-- [![Nakshatra Singh's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nakshatrasinghh&type=horizontal&limit=10)](https://nakshatrasinghh.medium.com) -->
-
-
-<p align="center">
-  <em>NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. Sometimes the languages are not rendered correctly by GitHub.</em>
-</p>
+#### Development Stack
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### Design
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+#### Other
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
