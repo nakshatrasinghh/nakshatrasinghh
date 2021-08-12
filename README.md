@@ -1,16 +1,16 @@
 <img style="border-radius:30px" src="https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/readme.jpg">
 
-### About Me👋
+### About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
 I am a Third Year Computer Science Undergraduate at Dayananda Sagar University, Bangalore.
-Recently I was employed as a Research Intern at Lykiq Labs where I was implementing artificial fish-swarm algorithm and scheduling techniques in Python.
-Additionally I was also working at ShapeAI as a Machine Learning Intern (+Mentor) where I was learning and implementing Neural Machine Translation and various Deep Learning models using pytorch and keras.
-I have done various projects on Computer Vision, Machine Learning and Deep Learning.
-Presently I hold the Master rank at MachineHack.
+Recently I participated in Amazon Machine Learning challenge in which my team secured a national rank of 17 out of 10000+ registered participants. The challenge was to perform Multi-Class Text Classification on a HUGE imbalanced dataset of ~3 Million samples and classify them into 9919 unique classes.
+Some tiny mistakes and we missed our spot in the top 10 just by <1% metric differential :(
+<br>
+
+Currently, I am diving into the world of React and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
+Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs
 </br>
 
 Fun Fact : I love creating UI/UX designs in Flutter!
-
-Currently, I am diving into the world of React and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. 
 
 ### My Tech Stack🚀
 #### Machine Learning Stack
@@ -48,3 +48,19 @@ Currently, I am diving into the world of React and Flutter by building some cool
 #### Other
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com?user=nakshatrasinghh&theme=dracula&hide_border=true)
+
+
+<details>	
+  <summary><b>⚡ GitHub and WakaTime Stats</b></summary>
+<img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+*NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
+
+</details>
