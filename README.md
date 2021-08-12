@@ -69,6 +69,87 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 <img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 309 Contributions in the Year 2021
+ > 
+> 📦 840.5 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 47 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    182 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
+🌆 Daytime    440 commits    ███████████░░░░░░░░░░░░░░   45.79% 
+🌃 Evening    310 commits    ████████░░░░░░░░░░░░░░░░░   32.26% 
+🌙 Night      29 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Tuesday      119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Thursday     171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
+Friday       151 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Saturday     138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Sunday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     3 hrs               ████████████████████░░░░░   82.0% 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+
+🔥 Editors: 
+IntelliJ                 2 hrs 35 mins       █████████████████░░░░░░░░   70.57% 
+VS Code                  1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.43%
+
+🐱‍💻 Projects: 
+day1-intellij-idea       2 hrs 32 mins       █████████████████░░░░░░░░   69.42% 
+java                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Preprocess_Nakshatra     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+personal-portfolio       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+
+💻 Operating System: 
+Mac                      3 hrs 39 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         20 repos            ██████████░░░░░░░░░░░░░░░   40.82% 
+Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/charts/bar_graph.png) 
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
