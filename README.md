@@ -50,12 +50,12 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 <!-- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 #### Connect with Me
 <p align="left">
-<a target="_blank"href="https://www.linkedin.com/in/nakshatrasinghh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="https://nakshatrasinghh.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-<a target="_blank"href="https://twitter.com/iamnakshatraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank"href="https://www.instagram.com/nakshatraa.singhh/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank"href="https://www.kaggle.com/nakshatrasingh">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-<a target="_blank"href="https://www.hackerearth.com/@nakshatra18"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+<a target="_blank" href="https://www.linkedin.com/in/nakshatrasinghh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://nakshatrasinghh.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a target="_blank" href="https://twitter.com/iamnakshatraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank" href="https://www.instagram.com/nakshatraa.singhh/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank" href="https://www.kaggle.com/nakshatrasingh">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<a target="_blank" href="https://www.hackerearth.com/@nakshatra18"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
 </p>
 </p>
 
