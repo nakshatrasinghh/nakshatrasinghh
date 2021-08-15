@@ -72,6 +72,9 @@ Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 <img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&layout=compact&hide=jupyter%20notebook&theme=material-palenight"/>
   
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nakshatrasinghh&layout=compact"/>
+
+  
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
