@@ -6,11 +6,11 @@ Recently I participated in Amazon Machine Learning challenge in which my team se
 Some tiny mistakes and we missed our spot in the top 10 just by <1% metric differential :(
 <br>
 
-Currently, I am diving into the world of React and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
+Currently, I am diving into the world of React-Native and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
 Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs.
 </br>
 
-Fun Fact : I love creating UI/UX designs in Flutter!
+Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 
 ## My Tech Stack🚀
 #### Machine Learning Stack
