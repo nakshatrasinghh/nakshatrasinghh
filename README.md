@@ -7,7 +7,7 @@ Some tiny mistakes and we missed our spot in the top 10 just by <1% metric diffe
 <br>
 
 Currently, I am diving into the world of React-Native and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
-Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs.
+Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs on medium.
 </br>
 
 Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
@@ -36,15 +36,17 @@ Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 #### Development Stack
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![image](https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<!-- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+<!-- ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 <!-- ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 #### Design
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
