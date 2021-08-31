@@ -57,6 +57,7 @@ Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 <!-- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 #### Connect with Me
 <p align="left">
+ <a target="_blank" href="mailto:iamnakshatrasingh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/nakshatrasinghh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://nakshatrasinghh.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <a target="_blank" href="https://twitter.com/iamnakshatraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
