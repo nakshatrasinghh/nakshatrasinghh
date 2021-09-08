@@ -1,16 +1,16 @@
 <img style="border-radius:30px" src="https://raw.githubusercontent.com/nakshatrasinghh/nakshatrasinghh/master/readme.jpg">
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
-I am a Third Year Computer Science Undergraduate at Dayananda Sagar University, Bangalore.
+I am a Third Year Computer Science Undergraduate studying in Bangalore, India.
 Recently I participated in Amazon Machine Learning challenge in which my team secured a national rank of 17 out of 10000+ registered participants. The challenge was to perform Multi-Class Text Classification on a HUGE imbalanced dataset of ~3 Million samples and classify them into 9919 unique classes.
 Some tiny mistakes and we missed our spot in the top 10 just by <1% metric differential :(
 <br>
 
-Currently, I am diving into the world of React-Native and Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
+Currently, I am diving into the world of Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
 Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs on medium.
 </br>
 
-Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
+Fun Fact : I love creating UI/UX designs in Flutter!
 
 ## My Tech Stack🚀
 #### Machine Learning Stack
@@ -59,11 +59,11 @@ Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 <p align="left">
  <a target="_blank" href="mailto:iamnakshatrasingh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/nakshatrasinghh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://nakshatrasinghh.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<!-- <a target="_blank" href="https://nakshatrasinghh.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a> -->
 <a target="_blank" href="https://twitter.com/iamnakshatraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/nakshatraa.singhh/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://www.kaggle.com/nakshatrasingh">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-<a target="_blank" href="https://www.hackerearth.com/@nakshatra18"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+<!-- <a target="_blank" href="https://www.instagram.com/nakshatraa.singhh/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+<!-- <a target="_blank" href="https://www.kaggle.com/nakshatrasingh">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a> -->
+<!-- <a target="_blank" href="https://www.hackerearth.com/@nakshatra18"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a> -->
 </p>
 </p>
 
@@ -77,7 +77,7 @@ Fun Fact : I love creating UI/UX designs in Flutter and React-Native!
 <img src="https://github-readme-stats-pvt.nakshatrasinghh.vercel.app/api?username=nakshatrasinghh&show_icons=true&theme=material-palenight&layout=compact&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatrasinghh&layout=compact&hide=jupyter%20notebook&theme=material-palenight"/>
   
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nakshatrasinghh&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nakshatrasinghh&layout=compact"/> -->
 
   
 
