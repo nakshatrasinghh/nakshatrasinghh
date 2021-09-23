@@ -86,7 +86,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 
 > 🏆 440 Contributions in the Year 2021
  > 
-> 📦 920.8 kB Used in GitHub's Storage 
+> 📦 920.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
