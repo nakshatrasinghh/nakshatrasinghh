@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53419293/135230561-f4bc7683-93c7-45c5-8ef8-c4c31e999c52.jpg">
+<img src="https://user-images.githubusercontent.com/53419293/135231594-5992afaf-2694-4a02-ab68-2d81747117b6.jpg">
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
 I am a Third Year Computer Science Undergraduate studying in Bangalore, India.
