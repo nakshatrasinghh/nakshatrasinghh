@@ -46,6 +46,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff)
 ![image](https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARpJREFUeNrsVl0NwyAQhilAAnNQCZVQCTgYEuYACcsc1EnrgEmYA3Yk93DpKH8l7QtfcmnKwf0fB2MdHQDnnACSZyiSQAZocf9YkCdz9+V6Zlx7mJRSarkF0tRi9FAjrxRetkgp1RnR0TXKt0JoeIeCWpiqw47hy/a0keeSemsTCp57FVqRc8NIblWivVyEr0pzzYnAO+f8sw0jfPyar8YH0Nv/w755axh8bGmOXMgbkrsB6IUpGXFt2pOTi5hiQW6fBSv4FezHI4ojhSOQL1I1UIIbnFvx/Lgj1xs0Q16/kYyNhV24ZrdTok6q2umaC+TglTkcnlSXDInIWFSBsaiajcXIpGr2EIgqDTx97ClPn4QhgnV0FOAnwABDX3jRz7sYRAAAAABJRU5ErkJggg==&logoColor=white)
 <!-- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 <!-- ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 <!-- ![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) -->
