@@ -129,7 +129,8 @@ Sunday       110 commits    ███░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Dart                     12 mins             ██████████████████████░░░   89.29% 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
+YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 VS Code                  13 mins             █████████████████████████   100.0%
@@ -156,7 +157,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
