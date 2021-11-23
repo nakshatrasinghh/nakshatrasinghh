@@ -128,17 +128,16 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     12 mins             █████████████████████████   100.0%
+Dart                     9 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-flutterbox               9 mins              ██████████████████░░░░░░░   74.66% 
-flutterapp               3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.34%
+flutterbox               9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.0%
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -155,7 +154,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
