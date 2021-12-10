@@ -85,8 +85,6 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2028%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -158,7 +156,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2021
+ Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
