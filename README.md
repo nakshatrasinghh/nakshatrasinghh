@@ -85,8 +85,6 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2029%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -130,16 +128,14 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 mins              ████████████████████████░   99.26% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
+Dart                     3 mins              █████████████████████████   100.0% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-recycle_app              3 mins              ████████████████████████░   99.26% 
-Voting dApp              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+recycle_app              3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
 Mac                      3 mins              █████████████████████████   100.0%
@@ -159,7 +155,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
