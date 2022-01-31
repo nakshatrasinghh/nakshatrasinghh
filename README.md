@@ -91,7 +91,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 934.0 kB Used in GitHub's Storage 
+> 📦 934.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -162,7 +162,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2022 00:30:38 UTC
+ Last Updated on 31/01/2022 00:27:06 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
