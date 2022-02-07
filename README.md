@@ -130,16 +130,17 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     9 mins              ████████████████████████░   98.49% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -156,7 +157,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 12:18:20 UTC
+ Last Updated on 07/02/2022 12:18:23 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
