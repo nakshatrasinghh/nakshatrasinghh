@@ -85,6 +85,8 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2056%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -128,18 +130,19 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     9 mins              ████████████████████████░   98.21% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Dart                     12 mins             ████████████████████████░   98.62% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████████████   100.0%
+Unknown Project          10 mins             ███████████████████░░░░░░   77.29% 
+flutterapp               2 mins              █████░░░░░░░░░░░░░░░░░░░░   22.71%
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.0%
+Mac                      13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -156,7 +159,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2022 00:29:41 UTC
+ Last Updated on 10/02/2022 12:18:52 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
