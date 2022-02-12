@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -130,19 +130,20 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     12 mins             ████████████████████████░   98.62% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+Dart                     17 mins             ████████████████████████░   98.98% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             ███████████████████░░░░░░   77.29% 
-flutterapp               2 mins              █████░░░░░░░░░░░░░░░░░░░░   22.71%
+Unknown Project          13 mins             ███████████████████░░░░░░   76.5% 
+flutterapp               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+tic_tac_toe              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+Mac                      17 mins             █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +160,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2022 12:19:00 UTC
+ Last Updated on 12/02/2022 12:17:18 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
