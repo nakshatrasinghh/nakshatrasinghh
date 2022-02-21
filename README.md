@@ -85,15 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2023%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 934.2 kB Used in GitHub's Storage 
+> 📦 934.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,8 +103,8 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 
 ```text
 🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   24.44% 
-🌆 Daytime    256 commits    ███████████░░░░░░░░░░░░░░   43.76% 
-🌃 Evening    180 commits    ███████░░░░░░░░░░░░░░░░░░   30.77% 
+🌆 Daytime    255 commits    ███████████░░░░░░░░░░░░░░   43.59% 
+🌃 Evening    181 commits    ███████░░░░░░░░░░░░░░░░░░   30.94% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 ```
@@ -160,7 +158,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2022 12:19:37 UTC
+ Last Updated on 21/02/2022 00:31:29 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
