@@ -85,8 +85,6 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -130,18 +128,22 @@ Sunday       73 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Solidity                 41 mins             ████████████████████████░   96.16% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+Java                     49 mins             █████████████░░░░░░░░░░░░   53.72% 
+Solidity                 40 mins             ███████████░░░░░░░░░░░░░░   44.49% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+IntelliJ                 49 mins             █████████████░░░░░░░░░░░░   53.72% 
+VS Code                  42 mins             ███████████░░░░░░░░░░░░░░   46.28%
 
 🐱‍💻 Projects: 
-SolidityForBeginners     42 mins             █████████████████████████   100.0%
+oodj                     48 mins             █████████████░░░░░░░░░░░░   53.1% 
+SolidityForBeginners     42 mins             ███████████░░░░░░░░░░░░░░   46.28% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.0%
+Mac                      1 hr 31 mins        █████████████████████████   100.0%
 
 ```
 
@@ -158,7 +160,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2022 12:22:53 UTC
+ Last Updated on 24/03/2022 00:33:56 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
