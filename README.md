@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -130,9 +130,9 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 40 mins       █████████████░░░░░░░░░░░░   54.8% 
-Python                   1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-Dart                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+TypeScript               3 hrs 40 mins       █████████████░░░░░░░░░░░░   54.7% 
+Python                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   22.9% 
+Dart                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
 Solidity                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
 Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
@@ -140,11 +140,11 @@ Other                    8 mins              ░░░░░░░░░░░�
 VS Code                  6 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-portfolio-main           3 hrs 55 mins       ██████████████░░░░░░░░░░░   58.3% 
-VerticalX-Recommendation-55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-air_quality              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
-Movie-Recommendation-Syst23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-ST-recommendation-system 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
+portfolio-main           3 hrs 55 mins       ██████████████░░░░░░░░░░░   58.2% 
+VerticalX-Recommendation-55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+air_quality              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Movie-Recommendation-Syst23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+ST-recommendation-system 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
 
 💻 Operating System: 
 Mac                      6 hrs 43 mins       █████████████████████████   100.0%
@@ -164,7 +164,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 12:19:09 UTC
+ Last Updated on 08/05/2022 00:38:06 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
