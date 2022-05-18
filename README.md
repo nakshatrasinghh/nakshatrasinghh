@@ -85,19 +85,19 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 91 Contributions in the Year 2022
+> 🏆 90 Contributions in the Year 2022
  > 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 52 Private Repositories  
  > 
@@ -130,23 +130,24 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr                ███████████░░░░░░░░░░░░░░   46.05% 
-Solidity                 51 mins             ██████████░░░░░░░░░░░░░░░   39.57% 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+JavaScript               1 hr 12 mins        ███████████░░░░░░░░░░░░░░   44.52% 
+Solidity                 1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   39.57% 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-fr_token                 1 hr 29 mins        █████████████████░░░░░░░░   68.19% 
-SolidityForBeginners     29 mins             █████░░░░░░░░░░░░░░░░░░░░   22.44% 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-cakeshop-master          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+fr_token                 1 hr 29 mins        █████████████░░░░░░░░░░░░   54.6% 
+hedera                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92% 
+SolidityForBeginners     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
+cakeshop-master          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.0%
+Mac                      2 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
@@ -163,7 +164,7 @@ JavaScript               10 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 17/05/2022 12:23:51 UTC
+ Last Updated on 18/05/2022 00:36:30 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
