@@ -85,13 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 112 Contributions in the Year 2022
+> 🏆 113 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -104,22 +104,22 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    166 commits    ███████░░░░░░░░░░░░░░░░░░   27.9% 
-🌆 Daytime    247 commits    ██████████░░░░░░░░░░░░░░░   41.51% 
-🌃 Evening    176 commits    ███████░░░░░░░░░░░░░░░░░░   29.58% 
+🌞 Morning    167 commits    ███████░░░░░░░░░░░░░░░░░░   28.02% 
+🌆 Daytime    247 commits    ██████████░░░░░░░░░░░░░░░   41.44% 
+🌃 Evening    176 commits    ███████░░░░░░░░░░░░░░░░░░   29.53% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
-Wednesday    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Thursday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
-Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Saturday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Sunday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+Wednesday    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Thursday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+Saturday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Sunday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74%
 
 ```
 
@@ -164,7 +164,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2022 00:46:48 UTC
+ Last Updated on 09/06/2022 12:25:33 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
