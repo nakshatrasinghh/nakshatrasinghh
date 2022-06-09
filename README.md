@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -140,9 +140,9 @@ TypeScript               3 mins              ░░░░░░░░░░░�
 VS Code                  4 hrs 42 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hedera-mint              3 hrs 41 mins       ███████████████████░░░░░░   78.44% 
-hedera-dapp              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-hashraffle-0.0           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+hedera-mint              3 hrs 41 mins       ███████████████████░░░░░░   78.45% 
+hedera-dapp              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+hashraffle-0.0           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
 meta                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
 EnercentWebApp           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
@@ -164,7 +164,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2022 12:24:36 UTC
+ Last Updated on 09/06/2022 00:46:48 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
