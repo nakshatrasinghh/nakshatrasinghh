@@ -85,13 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 195 Contributions in the Year 2022
+> 🏆 193 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -154,17 +154,17 @@ Mac                      11 hrs 30 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     25 repos            ███████░░░░░░░░░░░░░░░░░░   28.09% 
-Jupyter Notebook         18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22% 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
+Dart                     25 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Jupyter Notebook         18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 27/08/2022 00:44:32 UTC
+ Last Updated on 27/08/2022 12:22:45 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
