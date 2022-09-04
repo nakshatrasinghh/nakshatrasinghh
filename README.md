@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -101,51 +101,6 @@ Fun Fact : I love creating UI/UX designs in Flutter!
  > 
 > 🔑 60 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    130 commits    ██████████░░░░░░░░░░░░░░░   40.12% 
-🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   34.88% 
-🌃 Evening    75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.15% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Tuesday      69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.3% 
-Wednesday    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Thursday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Dart                     1 hr 8 mins         █████████████████████░░░░   85.76% 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-
-🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-FarmerInsights           1 hr 19 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -159,7 +114,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 00:48:10 UTC
+ Last Updated on 04/09/2022 12:30:52 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
