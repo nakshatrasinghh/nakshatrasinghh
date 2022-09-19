@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -130,21 +130,18 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               29 mins             ███████████░░░░░░░░░░░░░░   47.39% 
-Dart                     19 mins             ████████░░░░░░░░░░░░░░░░░   31.62% 
-Groovy                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+Dart                     45 mins             ███████████████████░░░░░░   78.84% 
+Groovy                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
+VS Code                  57 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-FarmerInsights           32 mins             ████████████░░░░░░░░░░░░░   51.0% 
-redux-crash-course       30 mins             ████████████░░░░░░░░░░░░░   49.0%
+FarmerInsights           57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.0%
+Mac                      57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -161,7 +158,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2022 12:31:24 UTC
+ Last Updated on 19/09/2022 00:48:10 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
