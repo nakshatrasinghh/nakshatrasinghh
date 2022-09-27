@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -130,19 +130,19 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     8 hrs 12 mins       █████████████████████████   99.9% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Dart                     12 hrs 31 mins      █████████████████████████   99.7% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 34 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-FarmerInsights           8 hrs 1 min         ████████████████████████░   97.8% 
-flutter                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+FarmerInsights           12 hrs 18 mins      ████████████████████████░   97.92% 
+flutter                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 💻 Operating System: 
-Mac                      8 hrs 12 mins       █████████████████████████   100.0%
+Mac                      12 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 12:24:24 UTC
+ Last Updated on 27/09/2022 00:56:36 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
