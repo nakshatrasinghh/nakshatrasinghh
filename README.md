@@ -85,7 +85,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -130,21 +130,21 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     11 hrs 37 mins      █████████████████████████   99.67% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Dart                     10 hrs 26 mins      █████████████████████████   99.57% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  11 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 29 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-FarmerInsights           11 hrs 32 mins      ████████████████████████░   99.01% 
-flutter                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
-nakuuuuu                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+FarmerInsights           10 hrs 18 mins      ████████████████████████░   98.31% 
+flutter                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+nakuuuuu                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 💻 Operating System: 
-Mac                      11 hrs 39 mins      █████████████████████████   100.0%
+Mac                      10 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
@@ -161,7 +161,7 @@ HTML                     10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2022 12:36:01 UTC
+ Last Updated on 08/10/2022 00:59:55 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
