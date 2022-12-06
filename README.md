@@ -85,13 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 353 Contributions in the Year 2022
+> 🏆 358 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -104,22 +104,22 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    89 commits     ███████░░░░░░░░░░░░░░░░░░   29.08% 
-🌆 Daytime    119 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
-🌃 Evening    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.72% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+🌞 Morning    92 commits     ███████░░░░░░░░░░░░░░░░░░   29.58% 
+🌆 Daytime    121 commits    █████████░░░░░░░░░░░░░░░░   38.91% 
+🌃 Evening    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.23% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Thursday     50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
+Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Tuesday      57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Thursday     50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
+Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65%
 
 ```
 
@@ -161,7 +161,7 @@ TypeScript               9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 00:40:36 UTC
+ Last Updated on 06/12/2022 12:19:55 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
