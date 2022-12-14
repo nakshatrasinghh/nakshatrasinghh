@@ -85,13 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 372 Contributions in the Year 2022
+> 🏆 373 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -99,7 +99,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 63 Private Repositories  
+> 🔑 64 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -130,33 +130,34 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ████████████████████████░   96.67% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Web3Backend              1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     25 repos            ██████░░░░░░░░░░░░░░░░░░░   27.47% 
-JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-Jupyter Notebook         12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
+Dart                     25 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
+JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Jupyter Notebook         11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
 
 
- Last Updated on 13/12/2022 12:23:04 UTC
+ Last Updated on 14/12/2022 00:41:19 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
