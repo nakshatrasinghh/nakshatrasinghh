@@ -130,16 +130,16 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nakuuuuu                 13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -156,7 +156,7 @@ TypeScript               10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 00:41:50 UTC
+ Last Updated on 02/01/2023 12:23:03 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
