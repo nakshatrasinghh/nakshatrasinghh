@@ -91,7 +91,7 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 
 **🐱 My GitHub Data** 
 
-> 🏆 52 Contributions in the Year 2023
+> 🏆 53 Contributions in the Year 2023
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -156,7 +156,7 @@ Jupyter Notebook         9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2023 12:22:27 UTC
+ Last Updated on 14/01/2023 00:38:32 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
