@@ -85,13 +85,13 @@ Fun Fact : I love creating UI/UX designs in Flutter!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 255 Contributions in the Year 2023
+> 🏆 256 Contributions in the Year 2023
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -104,22 +104,22 @@ Fun Fact : I love creating UI/UX designs in Flutter!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   26.24% 
-🌆 Daytime    228 commits    ██████████░░░░░░░░░░░░░░░   41.83% 
-🌃 Evening    166 commits    ███████░░░░░░░░░░░░░░░░░░   30.46% 
+🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+🌆 Daytime    229 commits    ██████████░░░░░░░░░░░░░░░   41.94% 
+🌃 Evening    166 commits    ███████░░░░░░░░░░░░░░░░░░   30.4% 
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Tuesday      92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Friday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Saturday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
-Sunday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38%
+Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
+Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
+Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
+Friday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+Saturday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
+Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 ```
 
@@ -165,7 +165,7 @@ Jupyter Notebook         9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2023 00:46:40 UTC
+ Last Updated on 05/02/2023 12:21:30 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
