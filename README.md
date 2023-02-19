@@ -1,16 +1,16 @@
 <img src="https://user-images.githubusercontent.com/53419293/135232307-a2a48d54-5c89-4a53-a479-08eb92884c0e.jpg">
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
-I am a Third Year Computer Science Undergraduate studying in Bangalore, India.
+I am a Fourth Year Computer Science Undergraduate studying in Bangalore, India.
 Recently I participated in Amazon Machine Learning challenge in which my team secured a national rank of 17 out of 10000+ registered participants. The challenge was to perform Multi-Class Text Classification on a HUGE imbalanced dataset of ~3 Million samples and classify them into 9919 unique classes.
 Some tiny mistakes and we missed our spot in the top 10 just by <1% metric differential :(
 <br>
 
-Currently, I am diving into the world of Flutter by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
+Currently, I am diving into the world of React Native by building some cool and unique projects. I am exploring more in UI/UX and product development as well on the side. I have done various projects on Computer Vision, Machine Learning and Deep Learning.
 Presently I hold the Master rank at MachineHack and I love to write technical SOTA blogs on medium.
 </br>
 
-Fun Fact : I love creating UI/UX designs in Flutter!
+Fun Fact : I love creating UI/UX designs!
 
 ## My Tech Stack🚀
 #### Machine Learning Stack
