@@ -47,10 +47,24 @@ Fun Fact : I love creating UI/UX designs!
 ![image](https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff)
 ![image](https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARpJREFUeNrsVl0NwyAQhilAAnNQCZVQCTgYEuYACcsc1EnrgEmYA3Yk93DpKH8l7QtfcmnKwf0fB2MdHQDnnACSZyiSQAZocf9YkCdz9+V6Zlx7mJRSarkF0tRi9FAjrxRetkgp1RnR0TXKt0JoeIeCWpiqw47hy/a0keeSemsTCp57FVqRc8NIblWivVyEr0pzzYnAO+f8sw0jfPyar8YH0Nv/w755axh8bGmOXMgbkrsB6IUpGXFt2pOTi5hiQW6fBSv4FezHI4ojhSOQL1I1UIIbnFvx/Lgj1xs0Q16/kYyNhV24ZrdTok6q2umaC+TglTkcnlSXDInIWFSBsaiajcXIpGr2EIgqDTx97ClPn4QhgnV0FOAnwABDX3jRz7sYRAAAAABJRU5ErkJggg==&logoColor=white)
-<!-- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-<!-- ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-<!-- ![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) -->
-<!-- ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![image](https://img.shields.io/badge/Lerna-3E3E3E?style=for-the-badge&logo=lerna&logoColor=white)
+![image](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![image](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![image](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
 #### Design
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
