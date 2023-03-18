@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53419293/135232307-a2a48d54-5c89-4a53-a479-08eb92884c0e.jpg">
+<img src="https://user-images.githubusercontent.com/53419293/226122494-b69eeeed-d06c-40ad-9366-5906640abb7d.png">
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
 I am a Fourth Year Computer Science Undergraduate studying in Bangalore, India.
@@ -68,7 +68,7 @@ Fun Fact : I love creating UI/UX designs!
 #### Design
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-<!-- ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)  https://user-images.githubusercontent.com/53419293/135232307-a2a48d54-5c89-4a53-a479-08eb92884c0e.jpg. -->
 #### Other
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <!-- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
