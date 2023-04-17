@@ -99,7 +99,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -142,20 +142,19 @@ Sunday                   237 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 40 mins       ██████████████████░░░░░░░   72.48 % 
-JavaScript               1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               3 hrs 44 mins       ██████████████████░░░░░░░   73.58 % 
+JavaScript               1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
 Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
 VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cryptocaseCLI            3 hrs 48 mins       ███████████████████░░░░░░   75.25 % 
-cryptocase-backend       1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+cryptocaseCLI            3 hrs 50 mins       ███████████████████░░░░░░   75.59 % 
+cryptocase-backend       1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 Test                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
 Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
@@ -174,7 +173,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2023 12:12:30 UTC
+ Last Updated on 17/04/2023 00:32:44 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
