@@ -99,7 +99,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -107,7 +107,7 @@ Fun Fact : I love creating UI/UX designs!
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 557 Contributions in the Year 2023
+> 🏆 558 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -162,17 +162,17 @@ Mac                      22 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Dart                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Solidity                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Dart                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Solidity                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 
 
 
- Last Updated on 22/04/2023 00:32:39 UTC
+ Last Updated on 22/04/2023 12:12:54 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
