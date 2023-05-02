@@ -142,13 +142,15 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████████████   100.00 % 
+JavaScript               17 mins             █████████████████████████   98.27 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
 VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cryptocase-backend       17 mins             █████████████████████████   100.00 % 
+cryptocase-backend       17 mins             █████████████████████████   98.27 % 
+micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
 Mac                      17 mins             █████████████████████████   100.00 % 
@@ -167,7 +169,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2023 12:14:39 UTC
+ Last Updated on 02/05/2023 00:32:59 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
