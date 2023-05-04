@@ -99,7 +99,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -142,19 +142,19 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               42 mins             ████████████████████░░░░░   78.86 % 
-TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+JavaScript               47 mins             ██████████████████░░░░░░░   72.99 % 
+TypeScript               17 mins             ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cryptocase-backend       42 mins             ████████████████████░░░░░   78.86 % 
-cryptocaseCLI            11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+cryptocase-backend       47 mins             ██████████████████░░░░░░░   72.99 % 
+cryptocaseCLI            17 mins             ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2023 12:13:18 UTC
+ Last Updated on 04/05/2023 00:32:20 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
