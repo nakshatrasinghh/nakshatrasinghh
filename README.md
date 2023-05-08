@@ -99,7 +99,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -142,19 +142,19 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               38 mins             ██████████████░░░░░░░░░░░   56.31 % 
-JavaScript               29 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
+TypeScript               42 mins             ███████████████░░░░░░░░░░   58.73 % 
+JavaScript               29 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cryptocaseCLI            38 mins             ██████████████░░░░░░░░░░░   55.87 % 
-cryptocase-backend       29 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
-micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+cryptocaseCLI            42 mins             ███████████████░░░░░░░░░░   58.31 % 
+cryptocase-backend       29 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
+micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 12:12:49 UTC
+ Last Updated on 08/05/2023 00:32:00 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
