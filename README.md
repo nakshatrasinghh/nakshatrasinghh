@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/53419293/226122494-b69eeeed-d06c-40ad-9366-5906640abb7d.png">
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="23px">
-I am a Fourth Year Computer Science Undergraduate studying in Bangalore, India.
 Recently I participated in Amazon Machine Learning challenge in which my team secured a national rank of 17 out of 10000+ registered participants. The challenge was to perform Multi-Class Text Classification on a HUGE imbalanced dataset of ~3 Million samples and classify them into 9919 unique classes.
 Some tiny mistakes and we missed our spot in the top 10 just by <1% metric differential :(
 <br>
