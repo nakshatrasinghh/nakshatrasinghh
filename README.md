@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -141,19 +141,18 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 9 mins        ██████████████████████░░░   88.46 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               1 hr 40 mins        ██████████████████████░░░   88.00 % 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cryptocaseCLI            2 hrs 16 mins       ███████████████████████░░   93.33 % 
-design-component         9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+cryptocaseCLI            1 hr 21 mins        ██████████████████░░░░░░░   71.42 % 
+design-component         32 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +168,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2023 12:14:22 UTC
+ Last Updated on 16/05/2023 00:33:28 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
