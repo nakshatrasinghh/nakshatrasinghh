@@ -141,15 +141,15 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               48 mins             ████████████████████░░░░░   81.97 % 
-JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+TypeScript               48 mins             █████████████████████░░░░   82.04 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 
 🔥 Editors: 
 VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-design-component         32 mins             ██████████████░░░░░░░░░░░   55.48 % 
-cryptocaseCLI            26 mins             ███████████░░░░░░░░░░░░░░   44.32 % 
+design-component         32 mins             ██████████████░░░░░░░░░░░   55.27 % 
+cryptocaseCLI            26 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
 micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
@@ -169,7 +169,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2023 12:12:57 UTC
+ Last Updated on 22/05/2023 00:35:11 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
