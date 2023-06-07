@@ -100,13 +100,13 @@ Fun Fact : I love creating UI/UX designs!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 741 Contributions in the Year 2023
+> 🏆 744 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -117,21 +117,21 @@ Fun Fact : I love creating UI/UX designs!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                661 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                1443 commits        ███████████░░░░░░░░░░░░░░   44.22 % 
-🌃 Evening                1080 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌙 Night                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌞 Morning                682 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌆 Daytime                1503 commits        ███████████░░░░░░░░░░░░░░   44.30 % 
+🌃 Evening                1127 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   515 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  467 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Wednesday                431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Thursday                 622 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Friday                   495 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Saturday                 459 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Monday                   535 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  487 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Wednesday                450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 647 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Friday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sunday                   280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 
 
@@ -166,7 +166,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2023 12:13:59 UTC
+ Last Updated on 07/06/2023 00:39:50 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
