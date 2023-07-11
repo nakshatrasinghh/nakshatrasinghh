@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
@@ -106,7 +106,7 @@ Fun Fact : I love creating UI/UX designs!
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 849 Contributions in the Year 2023
+> 🏆 850 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -141,16 +141,19 @@ Sunday                   379 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 39 mins        █████████████████████░░░░   83.20 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ecocash-mov-dev          1 hr 59 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -166,7 +169,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2023 12:16:07 UTC
+ Last Updated on 11/07/2023 00:37:12 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
