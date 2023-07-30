@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
@@ -175,7 +175,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2023 00:38:49 UTC
+ Last Updated on 30/07/2023 12:14:49 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
