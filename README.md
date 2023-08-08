@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -141,20 +141,21 @@ Sunday                   565 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 57 mins      ████████████████████████░   96.78 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               12 hrs 45 mins      ████████████████████████░   97.19 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 15 hrs 27 mins      █████████████████████████   100.00 % 
+WebStorm                 13 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecocash-mov-dev          15 hrs 27 mins      █████████████████████████   100.00 % 
+ecocash-mov-dev          13 hrs 7 mins       █████████████████████████   99.95 % 
+micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      15 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +171,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2023 12:16:21 UTC
+ Last Updated on 08/08/2023 00:37:13 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
