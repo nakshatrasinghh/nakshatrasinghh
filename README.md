@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -141,21 +141,21 @@ Sunday                   565 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 28 mins       ███████████████████░░░░░░   76.25 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Java                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Properties               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               2 hrs 38 mins       ███████████████░░░░░░░░░░   60.55 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Java                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+textmate                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 10 mins       █████████████████████████   100.00 % 
+WebStorm                 4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecocash-mov-dev          7 hrs 10 mins       █████████████████████████   99.91 % 
-micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+ecocash-mov-dev          4 hrs 21 mins       █████████████████████████   99.85 % 
+micro-frontend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,7 +171,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2023 12:15:43 UTC
+ Last Updated on 11/08/2023 00:29:30 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
