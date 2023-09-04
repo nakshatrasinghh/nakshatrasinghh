@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -141,22 +141,21 @@ Sunday                   676 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 26 mins       █████████████████████░░░░   85.73 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               7 hrs 32 mins       ██████████████████████░░░   86.68 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 40 mins       █████████████████████████   100.00 % 
+WebStorm                 8 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecocash-mov-dev          8 hrs 10 mins       ████████████████████████░   94.28 % 
-mobile-resposive-portfoli15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+ecocash-mov-dev          8 hrs 27 mins       ████████████████████████░   97.30 % 
 ecocash-middleware       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 💻 Operating System: 
-Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +171,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2023 12:13:59 UTC
+ Last Updated on 04/09/2023 00:32:40 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
