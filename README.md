@@ -98,7 +98,7 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.2%20million%20lines%20of%20code-blue)
 
@@ -141,20 +141,19 @@ Sunday                   709 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 19 mins       ████████████████████████░   94.11 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               6 hrs 31 mins       ███████████████████████░░   92.13 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 54 mins       █████████████████████████   100.00 % 
+WebStorm                 7 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecocash-mov-dev          9 hrs 54 mins       █████████████████████████   100.00 % 
+ecocash-mov-dev          7 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +169,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2023 12:16:09 UTC
+ Last Updated on 07/09/2023 00:31:40 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
