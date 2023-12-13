@@ -104,7 +104,7 @@ Fun Fact : I love creating UI/UX designs!
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,619 Contributions in the Year 2023
+> 🏆 1,661 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -112,45 +112,6 @@ Fun Fact : I love creating UI/UX designs!
  > 
 > 🔑 68 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9633 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌆 Daytime                19655 commits       █████████████░░░░░░░░░░░░   51.35 % 
-🌃 Evening                8328 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-🌙 Night                  657 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   8040 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Tuesday                  6318 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                7326 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Thursday                 6808 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Friday                   6418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Saturday                 2413 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Sunday                   950 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -164,7 +125,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 00:36:06 UTC
+ Last Updated on 13/12/2023 00:35:53 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
