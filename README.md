@@ -98,13 +98,15 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2016%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,661 Contributions in the Year 2023
+> 🏆 1,667 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -112,6 +114,45 @@ Fun Fact : I love creating UI/UX designs!
  > 
 > 🔑 68 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9659 commits        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+🌆 Daytime                19705 commits       █████████████░░░░░░░░░░░░   51.37 % 
+🌃 Evening                8338 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌙 Night                  657 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8050 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  6334 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Wednesday                7348 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 6822 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Friday                   6434 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Saturday                 2419 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Sunday                   952 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,7 +166,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 00:35:53 UTC
+ Last Updated on 13/12/2023 12:18:08 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
