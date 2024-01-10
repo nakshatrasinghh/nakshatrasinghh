@@ -156,17 +156,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               31 repos            ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Dart                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Solidity                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               31 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Dart                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Solidity                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 
 
 
- Last Updated on 09/01/2024 12:17:39 UTC
+ Last Updated on 10/01/2024 00:34:12 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
