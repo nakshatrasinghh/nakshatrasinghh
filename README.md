@@ -106,8 +106,6 @@ Fun Fact : I love creating UI/UX designs!
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -119,7 +117,7 @@ Fun Fact : I love creating UI/UX designs!
 ```text
 🌞 Morning                9045 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 🌆 Daytime                18389 commits       █████████████░░░░░░░░░░░░   51.84 % 
-🌃 Evening                7286 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+🌃 Evening                7287 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 🌙 Night                  750 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -128,7 +126,7 @@ Fun Fact : I love creating UI/UX designs!
 Monday                   7468 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 Tuesday                  5968 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Wednesday                7221 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Thursday                 6285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Thursday                 6286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
 Friday                   5634 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 Saturday                 2022 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 Sunday                   872 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
@@ -166,7 +164,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2024 12:18:28 UTC
+ Last Updated on 29/03/2024 00:33:39 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
