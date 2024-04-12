@@ -98,8 +98,6 @@ Fun Fact : I love creating UI/UX designs!
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2016%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -116,7 +114,7 @@ Fun Fact : I love creating UI/UX designs!
 
 ```text
 🌞 Morning                9769 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-🌆 Daytime                20014 commits       █████████████░░░░░░░░░░░░   51.94 % 
+🌆 Daytime                20015 commits       █████████████░░░░░░░░░░░░   51.94 % 
 🌃 Evening                7929 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 🌙 Night                  821 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
@@ -126,7 +124,7 @@ Fun Fact : I love creating UI/UX designs!
 Monday                   7954 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
 Tuesday                  6632 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 Wednesday                7873 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Thursday                 6846 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Thursday                 6847 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 Friday                   6129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 Saturday                 2157 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 Sunday                   942 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
@@ -164,7 +162,7 @@ Solidity                 5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 12:14:49 UTC
+ Last Updated on 12/04/2024 00:33:44 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
